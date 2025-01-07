@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Meu Crediario](meucrediario.com.br)
 
-- 🌱 I’m currently learning **NestJS and VueJS**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/gabriel-alves-bb0a58140/](https://www.linkedin.com/in/gabriel-alves-bb0a58140/)
 
 
