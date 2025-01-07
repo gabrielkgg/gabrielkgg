@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gabriel Alves</h1>
 <h3 align="center">A full stack developer from Brazil</h3>
 
-- 🔭 I’m currently working on [Meu Crediario](https://meucrediario.com.br)
+- 🔭 I’m currently working on <a target="_blank" href="https://meucrediario.com.br">Meu Crediario</a>
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/gabriel-alves-bb0a58140/](https://www.linkedin.com/in/gabriel-alves-bb0a58140/)
+- 📄 Know about my experiences on <a target="_blank" href="https://www.linkedin.com/in/gabriel-alves-bb0a58140/">LinkedIn</a>
 
 
 <h3 align="left">Languages and Tools:</h3>
